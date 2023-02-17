@@ -1,1 +1,5 @@
 # Learn GraphQL
+
+```
+Have Fun ~~~
+```
